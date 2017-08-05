@@ -1,0 +1,2 @@
+# pyproject
+study python
